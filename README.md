@@ -6,13 +6,13 @@
 
 ### My Most interesting projects
 
-+ CuzaLang (DSL) \<WIP\>
++ CuzaLang (DSL) \<WIP\> 💻
   - a programming language compiler and runtime meant to sandbox and digest thousands of user-submitted scripts at once.
 + [Tony's Convenience Injector](https://github.com/antonioganea/tci) 💉
   - a reversed-engineered tool that allows for easier modding and hot reloading.
 + [VRChat Breadboard Electronics](https://www.youtube.com/watch?v=ZMOeGFkdkwo) 💡
   - a place to play with logic gates in VR.
-+ [Rust Logic Gates Bank](https://www.youtube.com/watch?v=viVmir-E3ts)
++ [Rust Logic Gates Bank](https://www.youtube.com/watch?v=viVmir-E3ts) 🏦
   - a Sethbling-like weekend project in Rust by Facepunch.
 
 ### Skills
